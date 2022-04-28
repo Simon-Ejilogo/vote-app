@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/simlogo17/017e207c-4043-4e7a-9580-f323a90e6f83/cec1e433-ee13-45c0-b86f-ce73d6a7b4a1/_apis/work/boardbadge/01ae2804-2d6b-449d-aa46-afe2566fc02c)](https://dev.azure.com/simlogo17/017e207c-4043-4e7a-9580-f323a90e6f83/_boards/board/t/cec1e433-ee13-45c0-b86f-ce73d6a7b4a1/Microsoft.RequirementCategory)
 Example Voting App
 =========
 
